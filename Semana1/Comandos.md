@@ -20,7 +20,7 @@ Get-Volume​
 ```
 Get-PnpDevice -PresentOnly​
 ```
-### Ver resumem de propiedades del hardwarew
+### Ver resumem de propiedades del hardware
 ```
 systeminfo
 ```
@@ -30,3 +30,7 @@ msinfo32​
 
 
 ## S.O. Linux con bash
+### Ver características de la CPU
+```
+lscpu 
+```
